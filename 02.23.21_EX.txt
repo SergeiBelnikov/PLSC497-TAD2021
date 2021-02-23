@@ -1,0 +1,18 @@
+What research question do you want to answer?
+
+Does the langauge complexity affects the jurdicial decision on a level of oral arguments in the Supreme Court?
+
+What are two possible answers?
+
+Yes, it does
+Not, it does not
+
+
+What are the documents of text data you will analyze?
+
+Oral arguments transcripts from the Supreme Court database.
+
+
+Give two examples of documents in the corpus that you expect will be high in similarity to each other? Two examples that are *low* in similarity?
+
+I am strugling with that one, as not entirelhy sure what to expect from the text data on oral argument.
